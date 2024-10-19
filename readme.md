@@ -1,1 +1,1 @@
-JOIN @OMENXD_BINS | @MR_OMENXD
+lordxitachii@gmail.com
