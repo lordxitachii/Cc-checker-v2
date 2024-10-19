@@ -8,11 +8,11 @@
     <title>@OmenXD_Bins</title>
     <link href="https://fonts.googleapis.com/css?family=Muli:300,300i,400,400i,600,600i,700,700i%7CComfortaa:300,400,700" rel="stylesheet">
     <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
-    <link rel="stylesheet" type="text/css" href="theme-assets/css/vendors.css">
-    <link rel="stylesheet" type="text/css" href="theme-assets/css/hyper.css?v=1.3">
-    <link rel="stylesheet" type="text/css" href="theme-assets/css/app-lite.css">
-    <link rel="stylesheet" type="text/css" href="theme-assets/css/core/menu/menu-types/vertical-menu.css">
-    <link rel="stylesheet" type="text/css" href="theme-assets/css/core/colors/palette-gradient.css">
+    <link rel="stylesheet" type="text/css" href="theme-/vendors.css">
+    <link rel="stylesheet" type="text/css" href="/hyper.css?v=1.3">
+    <link rel="stylesheet" type="text/css" href="/app-lite.css">
+    <link rel="stylesheet" type="text/css" href="/vertical-menu.css">
+    <link rel="stylesheet" type="text/css" href="/palette-gradient.css">
     <script src="https://cdn.jsdelivr.net/npm/sweetalert2@9"></script>
     <style>
         html body {
